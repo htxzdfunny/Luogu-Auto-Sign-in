@@ -22,7 +22,7 @@ def punch(Cookie):
 
 
 if __name__ == "__main__":
-    f = open("Cookies.txt")
+    f = open("Cookies1.txt")
     Cookie = f.readline()
     i = 1
     while Cookie:
